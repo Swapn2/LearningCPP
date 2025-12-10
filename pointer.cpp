@@ -23,7 +23,7 @@ int main(){
     cout << "value at arr[0] : " << *p << endl;
     cout << "value at arr[1] : " << *(p+1) << endl;
     cout << "value at arr[2] : " << *(p+2) << endl;
-    // cout << "value at arr[3] : " << *(p+3) << endl;
+    cout << "value at arr[3] : " << *(p+3) << endl;
 
     return 0;
 }
