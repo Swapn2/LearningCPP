@@ -1,0 +1,11 @@
+address of a is : 0xf634fff93c
+address of a is : 0xf634fff93c
+value at adddress b is : 3
+address of b is : 0xf634fff930
+address of b is : 0xf634fff930
+value at address c is : 0xf634fff93c
+value at address of address contain by c is : 3
+value at arr[0] : 2
+value at arr[1] : 4
+value at arr[2] : 6
+value at arr[3] : 8
